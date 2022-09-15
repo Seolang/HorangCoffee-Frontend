@@ -1,4 +1,4 @@
 # HorangCoffee-Frontend
 
 
-HorangCoffee Backend : https://github.com/Seolang/HorangCoffee-Backend
+HorangCoffee Back-end : https://github.com/Seolang/HorangCoffee-Backend
